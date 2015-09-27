@@ -21,8 +21,15 @@ var1=aaa&var2=bbb
 ### emmet
 
 ### lint
+[JSLint](jshint.com/docs)
+`.jslintrc` - configuration file
+```
+{
+    'eqeqeq': true
+}
+```
 
-### beautify
+### prettify
 
 ### Angular
 
